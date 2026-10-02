@@ -19,3 +19,7 @@ Redesigned a local salon website with a focus on lead generation and conversion.
 
 ### Task
 Redesign a local service business website with a strong focus on lead generation and conversion optimization.
+
+## Figma Design
+
+https://www.figma.com/design/ClxOybMKNrE0l8qukCzB4N/salon-website--homepage?node-id=2-2&t=p5ou50NpXJjWpZmp-1
